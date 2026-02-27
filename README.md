@@ -35,7 +35,7 @@ module.exports = {
     router: router
 };
 ```
-*No core files need to be modified. The framework will detect and load this module automatically upon the next restart.*
+*No core files need to be modified. The framework will detect and load this module automatically upon ze next restart.*
 
 ---
 **Note:** For more information on how to use EJS views within modules or access global data, please refer to the official Framework Documentation.
